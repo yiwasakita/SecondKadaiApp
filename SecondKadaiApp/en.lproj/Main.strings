@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "0im-Ha-1tn"; */
+"0im-Ha-1tn.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "名前を入力してください"; ObjectID = "7gd-uD-lAW"; */
+"7gd-uD-lAW.text" = "名前を入力してください";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Q7N-wl-mRw"; */
+"Q7N-wl-mRw.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "jvx-bF-0CA"; */
+"jvx-bF-0CA.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "名前を入力してください"; ObjectID = "lVQ-7i-1ud"; */
+"lVQ-7i-1ud.placeholder" = "名前を入力してください";

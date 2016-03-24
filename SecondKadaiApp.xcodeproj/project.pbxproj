@@ -14,6 +14,7 @@
 		E2437D821CA3831500D65A2A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E2437D801CA3831500D65A2A /* LaunchScreen.storyboard */; };
 		E2437D8D1CA3831500D65A2A /* SecondKadaiAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2437D8C1CA3831500D65A2A /* SecondKadaiAppTests.swift */; };
 		E2437D981CA3831500D65A2A /* SecondKadaiAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2437D971CA3831500D65A2A /* SecondKadaiAppUITests.swift */; };
+		E2437DA61CA3851F00D65A2A /* GreetingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2437DA51CA3851F00D65A2A /* GreetingViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,8 @@
 		E2437D931CA3831500D65A2A /* SecondKadaiAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SecondKadaiAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E2437D971CA3831500D65A2A /* SecondKadaiAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondKadaiAppUITests.swift; sourceTree = "<group>"; };
 		E2437D991CA3831500D65A2A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E2437DA51CA3851F00D65A2A /* GreetingViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GreetingViewController.swift; sourceTree = "<group>"; };
+		E2437DA91CA3995D00D65A2A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +103,7 @@
 				E2437D771CA3831500D65A2A /* AppDelegate.swift */,
 				E2437D791CA3831500D65A2A /* ViewController.swift */,
 				E2437D7B1CA3831500D65A2A /* Main.storyboard */,
+				E2437DA51CA3851F00D65A2A /* GreetingViewController.swift */,
 				E2437D7E1CA3831500D65A2A /* Assets.xcassets */,
 				E2437D801CA3831500D65A2A /* LaunchScreen.storyboard */,
 				E2437D831CA3831500D65A2A /* Info.plist */,
@@ -257,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E2437D7A1CA3831500D65A2A /* ViewController.swift in Sources */,
+				E2437DA61CA3851F00D65A2A /* GreetingViewController.swift in Sources */,
 				E2437D781CA3831500D65A2A /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -297,6 +302,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				E2437D7C1CA3831500D65A2A /* Base */,
+				E2437DA91CA3995D00D65A2A /* en */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
